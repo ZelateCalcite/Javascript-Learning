@@ -1,0 +1,23 @@
+{
+    "id": "Relation - 1",
+    "children": [
+      {
+        "id": "Relation - 2",
+        "children": [
+          { "id": "Paragrah 1" },
+          { "id": "Paragrah 2" }
+        ]
+      },
+      
+      {
+        "id": "Relation - 3",
+        "children": [
+          { "id": "Paragrah 3" },
+          { "id": "Paragrah 4" }
+        ]
+      },
+      {
+        "id": "Paragrah 5"
+      }
+    ]
+  }
